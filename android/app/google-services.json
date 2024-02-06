@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "129902342625",
+    "project_id": "job-finder-app-dc73d",
+    "storage_bucket": "job-finder-app-dc73d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129902342625:android:5e5efe2d53ae13bd6d22a0",
+        "android_client_info": {
+          "package_name": "com.example.job_finder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129902342625-f0ibmi0s7nul0m77r9puib7dfvbhg3qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.job_finder_app",
+            "certificate_hash": "ded920fb494add60f2bbbf18fab3911fc82cea7f"
+          }
+        },
+        {
+          "client_id": "129902342625-ch54nob91bdanoc4q1hceh8862pt28vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTFX9QjBKeLVyKv4kPt5Aof58ioamP4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129902342625-5r67mtmf3ej3472kn85rmnmjtjkqmbl2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129902342625-7a7pgaqm5qh8osm7eei6nrskjpnql9vn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobFinderApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
